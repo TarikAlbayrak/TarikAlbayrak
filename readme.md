@@ -6,7 +6,10 @@
 I turn complex ideas into responsive, scalable, and high-performance digital products. Focused on writing clean, maintainable code and delivering end-to-end solutions for clients worldwide.
 
 ### Services I Offer
-- **Custom Web Applications:** Fast, modern, and fully responsive web systems built from scratch.
-- **API Development & Integration:** Seamless connection to third-party services, RESTful APIs, and robust backend logic.
-- **UI/UX Implementation:** Turning Figma and Adobe XD designs into pixel-perfect, interactive user interfaces.
-- **Maintenance & Optimization:** Debugging, performance tuning, and refactoring existing codebases for efficiency.
+𐕣 **Custom Web Applications:** Fast, modern, and fully responsive web systems built from scratch.
+
+𐕣 **API Development & Integration:** Seamless connection to third-party services, RESTful APIs, and robust backend logic.
+
+𐕣 **UI/UX Implementation:** Turning Figma and Adobe XD designs into pixel-perfect, interactive user interfaces.
+
+𐕣 **Maintenance & Optimization:** Debugging, performance tuning, and refactoring existing codebases for efficiency.
